@@ -47,19 +47,19 @@ Feature-rich finance tracker with budgeting, analytics, recurring transactions, 
 
 ---
 
-## GitHub Stats
+ ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanakassahun&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanakassahun&layout=compact&theme=github_dark&hide_border=true)
 
----
-
 ## 🏆 Achievements
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hanakassahun&theme=algolia&no-frame=true&row=1)
 
+
 ---
+
 
 ## 🤝 Open To
 

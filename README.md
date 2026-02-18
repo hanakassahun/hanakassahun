@@ -53,7 +53,10 @@ Currently obsessed with becoming extremely skilled.
 
 ## ⭐ Featured Projects
 
-🔹 Smart Student Assistant  
+🔹Sentinel
+A personal intelligence operating system that detects behavioral patterns and improves decision-making. [in progress...]
+
+🔹Smart Student Assistant  
 A system designed to improve student productivity through intelligent tooling.
 
 🔹 Freelance Shield  

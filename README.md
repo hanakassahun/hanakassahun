@@ -68,8 +68,13 @@ Feature-rich finance tracker with budgeting, analytics, recurring transactions, 
 *(and More production-level projects coming soon.....)*
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hanakassahun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hanakassahun&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hanakassahun&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanakassahun&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🤝 Open To
 
